@@ -1,0 +1,18 @@
+Carbonara
+Skladniki : Ser mozzarella, szynka, mostek, pieczarki, parmezan, pomidory koktajlowe
+25
+Cztery sery
+Skladniki : Sos śmietanowy, ser mozzarella, ser niebieski Dor, ser cheddar, gruszka, parmezan, orzech
+30
+Amerykańska
+Skladniki : Sos BBQ, sos marinara, ser mozzarella, musztarda, sous-vide z kurczaka, kiełbaski myśliwskie, pepperoni,kukurydza, papryka
+32
+Calzone
+Skladniki : Sos Marinara, mozzarella, grzyby, ser Dor-blue, pomidory, szynka, sos pesto
+32
+Margarita
+Skladniki : Sos Marinara, pomidory, mozzarella, sos pesto
+25
+Wegetarianska
+Skladniki : Baklazan, grzyby, papryka, pomidory, sos pesto, sos marinara
+25
